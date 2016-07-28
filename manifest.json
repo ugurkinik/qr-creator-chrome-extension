@@ -1,7 +1,8 @@
 {
-  "name": "QR creator",
-  "description": "Create QR code for current url.",
-  "version": "0.1",
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
+  "version": "0.2",
   "icons": {
     "16": "icons/qr.png",
     "48": "icons/qr.png",

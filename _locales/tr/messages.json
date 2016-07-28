@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "QR oluşturucu",
+  },
+  "appDesc": {
+    "message": "Mevcut sayfanın linki için QR oluşturur.", 
+  }
+}
