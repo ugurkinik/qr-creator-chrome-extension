@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "QR creator",
+    "message": "QR creator"
   },
   "appDesc": {
-    "message": "Create QR code for current url.", 
+    "message": "Create QR code for current url."
   }
 }
